@@ -232,5 +232,6 @@ This dashboard enables stakeholders to:
 **Aman Kumar**
 
 * GitHub: https://github.com/amanviratian-creator
+* LinkedIn: (www.linkedin.com/in/aman-kumar-mus)
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
