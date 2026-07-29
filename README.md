@@ -1,4 +1,4 @@
-# 🚖 OLA Ride Booking Analysis Dashboard
+# 🚖 OLA Daily Performance Analysis Project
 
 A comprehensive **Power BI Business Intelligence project** that analyzes OLA ride booking data to uncover insights into revenue, booking performance, ride cancellations, customer satisfaction, payment methods, and vehicle performance. The project transforms raw ride-booking data into an interactive dashboard that supports data-driven business decisions.
 
